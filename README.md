@@ -5,4 +5,4 @@ I mainly work in **Rust** and enjoy building and learning through personal proje
 
 - 🦀 Rust enthusiast
 - 🔒 Aspiring cybersecurity/network engineer
-- 🛠️ Favorite project: Mercurius (private, for now)
+- 🛠️ Favorite project: <a href="https://github.com/PinkComputer/Mercurius"> Mercurius</a>
